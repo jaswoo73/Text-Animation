@@ -37,7 +37,7 @@ h2::before {
     color: transparent;
     border-right: 2px solid #01fe67;
     overflow: hidden;
-    animation: animate 5s linear infinite;
+    animation: animate 4s linear infinite;
 }
 
 h2:after {
@@ -58,8 +58,8 @@ h2:after {
         width: 0;
     }
 
-    60%,
-    80% {
+    70%,
+    90% {
         width: 100%;
     }
 }
