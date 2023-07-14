@@ -1,7 +1,7 @@
 # Text-Animation-CSS
 
 ## Description
-This is a simple HTML and CSS code snippet that demonstrates a loading animation with a typing text effect. The animation showcases a gradually revealing text using a linear gradient background.
+This is a simple HTML and CSS code snippet that demonstrates a loading animation with a typing text effect. The animation showcases a gradually revealing text.
 
 ## Customization
 To customize the animation, you can modify the following CSS properties:
